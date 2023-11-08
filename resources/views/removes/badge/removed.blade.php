@@ -1,0 +1,1 @@
+    @include('removes.badge.appeal.'.$remove -> appeal_stat -> name)

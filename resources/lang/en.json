@@ -1,0 +1,20 @@
+{
+    "user" : "Felhasználó",
+    "post" : "Poszt",
+    "group" : "Csoport",
+    "group_user" : "Tagság",
+    "comment" : "Komment",
+
+    "active" : "Aktív",
+    "deleted" : "Törölt",
+    "removed" : "Tiltott",
+
+    "private" : "Privát",
+    "public" : "Nyilvános",
+    "unlisted" : "Nem listázott",
+
+    "member" : "Tag",
+    "moderator" : "Moderátor",
+    "admin" : "Admin",
+    "guest" : "Vendég"
+}

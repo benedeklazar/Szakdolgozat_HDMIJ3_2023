@@ -1,0 +1,7 @@
+[data-bs-theme=dark] .header {
+    background-color: #212529;
+}
+
+[data-bs-theme=light] .header {
+    background-color: #f8f9fa;
+}
