@@ -1,0 +1,10 @@
+CREATE TABLE `posts` (
+  `id` int(11) NOT NULL,
+  `group_id` int(11) NOT NULL,
+  `user_id` int(11) NOT NULL,
+  `text` text NOT NULL,
+  `image` blob DEFAULT NULL,
+  `status_id` int(11) NOT NULL,
+  `visibility_id` int(11) NOT NULL,
+  `created_at` datetime NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
